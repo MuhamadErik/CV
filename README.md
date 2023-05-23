@@ -19,7 +19,7 @@ dan memiliki kemauan untuk berkembang.
    - Konfigurasi Mikrotik
    - Menginstall,Melaksankan Perangkat Lunak
    - Memperbaiki,Mengolah Perangkat Keras
- #### 2. [SMPN 1 NGETOS](https://www.sman1kebumen.sch.id) | MIPA | Nganjuk-Ngetos `2017-2022`
+ #### 2. [SMPN 1 NGETOS] (https://www.sman1kebumen.sch.id) |  Nganjuk- Ngetos`2017-2022`
    - Pendidikan Formal
 
 ## Pengalaman Praktik Kerja Lapangan:
