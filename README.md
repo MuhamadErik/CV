@@ -4,7 +4,7 @@
 dengan spesialis bidang Network Administrator.
 Memiliki pengetahuan yang cukup dalam teknik jaringan,Hardware,Software
 dan memiliki kemauan untuk berkembang.
-- Memiliki kemauan belajar dalam segala hal baru,memiliki keinginan dalam
+- Memiliki minat belajar dalam segala hal baru,memiliki keinginan dalam
 mengenal dunia yang lebih luas,menambah pengalaman yang relevan,dan
 selalu berusaha untuk menjadi orang yang berguna dalam segala hal.
 - Memiliki pengetahuan yang cukup dalam teknik jaringan,Hardware,Software
@@ -21,11 +21,6 @@ Mampu mengelola media sosial maupun marketplace
 ## Pendidikan:
 
 #### [SMK PGRI 1 NGANJUK](https://www.smkpgri1-nganjuk.sch.id/) | Teknik Komputer Dan Jaringan | Nganjuk `2020-2023`
-   - Konfigurasi Mikrotik
-   - Menginstall,Melaksankan Perangkat Lunak
-   - Memperbaiki,Mengolah Perangkat Keras
- #### [SMPN 1 NGETOS](https://maps.app.goo.gl/wz8K7ttbEJViSJfe8) |  Nganjuk `2017-2020`
-   - Pendidikan Formal
 
 ## Pengalaman Praktik Kerja Lapangan:
 #### [Primatech Computer](https://maps.app.goo.gl/5T37M2dSziFrJFK78) | Teknisi,Customer Service | Kediri `Dec'2021 - April'2022`
