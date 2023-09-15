@@ -31,10 +31,10 @@ dan memiliki kemauan untuk berkembang.
    - Belajar melayani Customer dengan semaksimal mungkin
 ### Kerja
 #### [Sinar Abadi Plastik](https://maps.app.goo.gl/ZCy6y3jZPENG7o8h8) (Karyawan Packing) `27 Mei 2023 - 6 September 2023`
-Mengemas barang sesuai orderan menggunakan automatic packing machine
-Berkoordinasi dengan operator produksi dalam proses produksi
-Menata barang di gudang
-Menjaga reputasi perusahaan
+- Mengemas barang sesuai orderan menggunakan automatic packing machine
+- Berkoordinasi dengan operator produksi dalam proses produksi
+- Menata barang di gudang
+- Menjaga reputasi perusahaan
 
 ### Connect with me:
 
