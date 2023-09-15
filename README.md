@@ -20,7 +20,7 @@ Mampu mengelola media sosial maupun marketplace
 
 ## Pendidikan:
 
-#### [SMK PGRI 1 NGANJUK](https://www.smkpgri1-nganjuk.sch.id/) | Teknik Komputer Dan Jaringan | Nganjuk `2020-2023`
+#### [SMK PGRI 1 NGANJUK](https://www.smkpgri1-nganjuk.sch.id/) Teknik Komputer Dan Jaringan `2020-2023`
 
 ## Pengalaman Praktik Kerja Lapangan:
 #### [Primatech Computer](https://maps.app.goo.gl/5T37M2dSziFrJFK78) | Teknisi,Customer Service | Kediri `Dec'2021 - April'2022`
