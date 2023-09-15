@@ -24,7 +24,7 @@ Mampu mengelola media sosial maupun marketplace
 
 ## Pengalaman :
 ### Magang
-#### [Prima Technology Computer](https://maps.app.goo.gl/5T37M2dSziFrJFK78) (Siswa Magang) `20 Desember 2021 - 16 April 2022`
+#### [Prima Technology Computer](https://maps.app.goo.gl/5T37M2dSziFrJFK78)                             (Siswa Magang) `20 Desember 2021 - 16 April 2022`
    - Belajar mengenai perakitan hardware maupun penginstallan software 
    - Belajar melayani Customer dengan semaksimal mungkin
 ### Kerja
