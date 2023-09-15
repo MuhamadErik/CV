@@ -22,10 +22,14 @@ Mampu mengelola media sosial maupun marketplace
 
 #### [SMK PGRI 1 NGANJUK](https://www.smkpgri1-nganjuk.sch.id/) Teknik Komputer Dan Jaringan `2020-2023`
 
-## Pengalaman Praktik Kerja Lapangan:
-#### [Primatech Computer](https://maps.app.goo.gl/5T37M2dSziFrJFK78) | Teknisi,Customer Service | Kediri `Dec'2021 - April'2022`
-   - Mengolah,Memperbaiki,Melaksanakan perangkat keras maupun perangkat lunak
-   - Memberikan pelayanan kepada pelanggan sebaik mungkin
+## Pengalaman :
+### Magang
+#### [Prima Technology Computer](https://maps.app.goo.gl/5T37M2dSziFrJFK78) (Siswa Magang) `20 Desember 2021 - 16 April 2022`
+   - Belajar mengenai perakitan hardware maupun penginstallan software 
+   - Belajar melayani Customer dengan semaksimal mungkin
+### Kerja
+#### [Sinar Abadi Plastik](https://maps.app.goo.gl/ZCy6y3jZPENG7o8h8) (Karyawan Packing) `27 Mei 2023 - 6 September 2023`
+
 
 ### Connect with me:
 
